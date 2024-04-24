@@ -1,5 +1,11 @@
 # IMK-2024: Aplikasi Toko Gadget Mobile
 
+## LINK FIGMA:
+https://www.figma.com/file/9zThpfaAuzTB0F3Fk9smcN/IMK-Tugas-1-Wireframe-Low-Fidelity?type=design&node-id=40%3A291&mode=design&t=yC5TZ6f2BDlcY2DN-1
+
+## LINK WHIMSICAL:
+https://whimsical.com/aplikasi-toko-gadget-berbasis-mobile-V5axXKcztfhSsGuhYXwgEU
+
 ## Deskripsi
 
 IMK-2024 adalah aplikasi toko gadget mobile yang dikembangkan oleh tim Drezantara. Aplikasi ini dirancang untuk memudahkan pengguna dalam membeli produk gadget secara online.
